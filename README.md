@@ -3,13 +3,15 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+programmer+!;Web+development+Enthusiast!;Always+learning+new+things!;" /></a>
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<p align="left">
+
 - 🧠 Exploring Web Application Development and Technologies.
 - ⚡ My interests are in Fullstack Web Development.
 - 🧙🏻‍♂️ Fun fact: I am a HUGE Harry Potter fan.
 - 💬 Ask me anything, I love to answer!
-</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
