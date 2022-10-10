@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/ishikasingh18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ishikasingh18" height="30" width="40"  /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/_eeeshi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_eeeshi_" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/IshikaS06910123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ishikasingh18" height="30" width="40" /></a> &nbsp;&nbsp;
- <a href="https://www.hackerrank.com/ishika18296" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> 
+  <a href="https://www.linkedin.com/in/ishikasingh18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedln" height="30" width="40"  /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> 
 </p>
  
  
